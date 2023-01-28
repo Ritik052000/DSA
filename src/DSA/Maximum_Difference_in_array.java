@@ -13,6 +13,7 @@ public class Maximum_Difference_in_array {
 		   res=Math.max(arr[i]-min_val,res);
 		   min_val=Math.min(min_val,arr[i]);
 	   }
+	 int a;
 	   return res;
    }
 

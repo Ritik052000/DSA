@@ -13,7 +13,7 @@ public class HCF {
         float x = (float) 32.559998;
         // find the closest int for the double
         System.out.println(decfor.format(x));
-        
+        System.out.println("ritik");
         
     }
 	       
